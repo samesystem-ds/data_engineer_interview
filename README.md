@@ -3,10 +3,10 @@
 Should be done within a week (should take aproximately 2-4 hours)
 
 ### Task
-Make a small web app
+Make a small WEB App:
 - Download data from the API (you can use any of the available public API https://github.com/public-apis/public-apis)
 - Save data to the database (SQLite/MySQL/PostgreSQL) using ORM (SQLAlchemy, Peewee)
-- Display data downloaded from the API
+- Display data downloaded from the API (Data should be displayed in the table on one-page website)
 - You can use any of the available WEB Frameworks (Flask/Django/Bottle)
 - (Bonus) Cover your application with tests
 - (Bonus) Write your code by following PEP-8
